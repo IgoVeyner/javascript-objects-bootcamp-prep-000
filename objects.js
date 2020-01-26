@@ -1,5 +1,5 @@
-const playlist = {smiths:'hateful'}
+const playlist = {'My Bloody Valentine':'Slowdrive'}
 
-function updatePlaylist(){
+function updatePlaylist(playlist, artistName, songTitle){
   
 }
