@@ -1,1 +1,1 @@
-const playlist = {}
+const playlist = {smiths:'hateful'}
